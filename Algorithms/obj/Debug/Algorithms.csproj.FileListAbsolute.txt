@@ -1,0 +1,8 @@
+C:\Hongbo\Project\VS\ConsoleTest\ConsoleTest\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Hongbo\Project\VS\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Hongbo\Project\VS\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.pdb
+C:\Hongbo\Project\VS\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Hongbo\Project\VS\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Hongbo\Project\VS\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Hongbo\Project\VS\ConsoleTest\ConsoleTest\bin\Debug\ConcurrentPriorityQueue.dll
+C:\Hongbo\Project\VS\ConsoleTest\ConsoleTest\bin\Debug\ConcurrentPriorityQueue.pdb
